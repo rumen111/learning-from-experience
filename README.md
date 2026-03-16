@@ -26,7 +26,7 @@ We simplify the environment to a decision between a safe option and a risky opti
 
 
 
-\- `bayesian\_updating.ipynb`
+\- learning_from_experience.ipynb`
 
 
 
